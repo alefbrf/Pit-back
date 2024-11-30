@@ -16,18 +16,18 @@ namespace CoffeeBreak.Infrastructure
     {
         public static IServiceCollection AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
-            //var connection = configuration.GetConnectionString("DefaultConnection");
-            //services.AddDbContext<AppDbContext>(options =>
-            //    options.UseNpgsql(connection)
-            //);
-
-            var sqlConnection = configuration.GetConnectionString("SqlServer");
+            var connection = configuration.GetConnectionString("SupabaseConnection");
             services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer(sqlConnection, dbOptions => {
-                    dbOptions.EnableRetryOnFailure();
-                    dbOptions.CommandTimeout(500);
-                })
+                options.UseNpgsql(connection)
             );
+
+            //var sqlConnection = configuration.GetConnectionString("SqlServer");
+            //services.AddDbContext<AppDbContext>(options =>
+            //    options.UseSqlServer(sqlConnection, dbOptions => {
+            //        dbOptions.EnableRetryOnFailure();
+            //        dbOptions.CommandTimeout(500);
+            //    })
+            //);
 
             services
                 .AddAuthentication(configuration)

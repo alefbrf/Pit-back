@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeBreak.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531c4af7086ab4e35ff1aba1b74559725aa52cf1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6004bb8eba6bf7d4b167d92756ad96d917c9b007")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeBreak.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeBreak.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

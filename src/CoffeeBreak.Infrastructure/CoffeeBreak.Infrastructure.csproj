@@ -28,4 +28,8 @@
     <ProjectReference Include="..\CoffeeBreak.Application\CoffeeBreak.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
 </Project>

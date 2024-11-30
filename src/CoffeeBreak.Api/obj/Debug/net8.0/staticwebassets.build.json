@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "FKSO3efZXYG9kiXLOSY64BGJTSKyoHVD5Jq7v6jcMEs=",
+  "Source": "CoffeeBreak.Api",
+  "BasePath": "_content/CoffeeBreak.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

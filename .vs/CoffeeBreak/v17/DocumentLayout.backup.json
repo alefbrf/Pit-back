@@ -1,0 +1,500 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\PIT\\Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|solutionrelative:src\\coffeebreak.infrastructure\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|solutionrelative:src\\coffeebreak.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\common\\interfaces\\repositories\\iconfigsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\common\\interfaces\\repositories\\iconfigsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\common\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\common\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\dtos\\response\\user\\createduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\dtos\\response\\user\\createduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6A34DB-ADF1-4E80-8E64-0040A26A2A57}|src\\CoffeeBreak.Domain\\CoffeeBreak.Domain.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A34DB-ADF1-4E80-8E64-0040A26A2A57}|src\\CoffeeBreak.Domain\\CoffeeBreak.Domain.csproj|solutionrelative:src\\coffeebreak.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\common\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\common\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|solutionrelative:src\\coffeebreak.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\dtos\\request\\admin\\configdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\dtos\\request\\admin\\configdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\common\\interfaces\\services\\iconfigsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\common\\interfaces\\services\\iconfigsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6A34DB-ADF1-4E80-8E64-0040A26A2A57}|src\\CoffeeBreak.Domain\\CoffeeBreak.Domain.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.domain\\entities\\configs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6A34DB-ADF1-4E80-8E64-0040A26A2A57}|src\\CoffeeBreak.Domain\\CoffeeBreak.Domain.csproj|solutionrelative:src\\coffeebreak.domain\\entities\\configs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\common\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\common\\interfaces\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.infrastructure\\repositories\\configsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|solutionrelative:src\\coffeebreak.infrastructure\\repositories\\configsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.infrastructure\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21379123-19C1-48E0-810A-044010444CBA}|src\\CoffeeBreak.Infrastructure\\CoffeeBreak.Infrastructure.csproj|solutionrelative:src\\coffeebreak.infrastructure\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\services\\configsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\services\\configsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\services\\addressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.application\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{478DBAF8-4F9A-454F-9C74-27086F7C0C6D}|src\\CoffeeBreak.Application\\CoffeeBreak.Application.csproj|solutionrelative:src\\coffeebreak.application\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\favoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|c:\\projetos\\pit\\back\\src\\coffeebreak.api\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E483A37C-0114-4AB8-953F-D26ED7512542}|src\\CoffeeBreak.Api\\CoffeeBreak.Api.csproj|solutionrelative:src\\coffeebreak.api\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAArwDAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:18:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IConfigsService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IConfigsService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IConfigsService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IConfigsService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IConfigsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:02:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:17:36.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:17:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:10:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConfigDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DTOs\\Request\\Admin\\ConfigDTO.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\DTOs\\Request\\Admin\\ConfigDTO.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DTOs\\Request\\Admin\\ConfigDTO.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\DTOs\\Request\\Admin\\ConfigDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:07:30.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:04:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:57:28.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAjwKgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:36:35.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IConfigsRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IConfigsRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IConfigsRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IConfigsRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Repositories\\IConfigsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:49:09.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Infrastructure\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwGcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:37:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAewAMBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:18:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatedUserDTO.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DTOs\\Response\\User\\CreatedUserDTO.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\DTOs\\Response\\User\\CreatedUserDTO.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DTOs\\Response\\User\\CreatedUserDTO.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\DTOs\\Response\\User\\CreatedUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:11:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:11:20.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Configs.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Domain\\Entities\\Configs.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Domain\\Entities\\Configs.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Domain\\Entities\\Configs.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Domain\\Entities\\Configs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:26:16.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IOrderService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Common\\Interfaces\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:36:09.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:27:30.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:27:53.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConfigsRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\ConfigsRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Infrastructure\\Repositories\\ConfigsRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\ConfigsRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Infrastructure\\Repositories\\ConfigsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:46:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Infrastructure\\Repositories\\AddressRepository.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Infrastructure\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Infrastructure\\Repositories\\AddressRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:46:26.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfigsService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\ConfigsService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Services\\ConfigsService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\ConfigsService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Services\\ConfigsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:52:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddressService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\AddressService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Services\\AddressService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\AddressService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Services\\AddressService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:52:47.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:02:18.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Application\\Services\\FavoriteService.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Application\\Services\\FavoriteService.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Application\\Services\\FavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:30:42.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FavoriteController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\FavoriteController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\FavoriteController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\FavoriteController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\FavoriteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:27:52.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "src\\CoffeeBreak.Api\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Projetos\\PIT\\Back\\src\\CoffeeBreak.Api\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "src\\CoffeeBreak.Api\\Controllers\\AddressController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T00:27:18.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

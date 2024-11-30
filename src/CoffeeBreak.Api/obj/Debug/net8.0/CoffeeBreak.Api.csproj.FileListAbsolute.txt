@@ -1,0 +1,421 @@
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.exe
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.deps.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.runtimeconfig.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.AssemblyReference.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfoInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeBreak.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\scopedcss\bundle\CoffeeBreak.Api.styles.css
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.CopyComplete
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\refint\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.genruntimeconfig.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Api\obj\Debug\net8.0\ref\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.exe
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.deps.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.runtimeconfig.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.AssemblyReference.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfoInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeBreak.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeBreak.Api.props
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\scopedcss\bundle\CoffeeBreak.Api.styles.css
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBr.8D2BE311.Up2Date
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\refint\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.genruntimeconfig.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\ref\CoffeeBreak.Api.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\appsettings.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.exe
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.deps.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.runtimeconfig.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Infrastructure.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.AssemblyReference.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfoInputs.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.AssemblyInfo.cs
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.csproj.CoreCompileInputs.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeBreak.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeBreak.Api.props
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeBreak.Api.props
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeBreak.Api.props
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\scopedcss\bundle\CoffeeBreak.Api.styles.css
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBr.8D2BE311.Up2Date
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\refint\CoffeeBreak.Api.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.genruntimeconfig.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\ref\CoffeeBreak.Api.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Api\obj\Debug\net8.0\CoffeeBreak.Api.sourcelink.json

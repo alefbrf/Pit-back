@@ -1,0 +1,46 @@
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.deps.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.AssemblyReference.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfoInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.CopyComplete
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\refint\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\CoffeeBreak\src\CoffeeBreak.Application\obj\Debug\net8.0\ref\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.deps.json
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.AssemblyReference.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfoInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfo.cs
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBr.168A79C7.Up2Date
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\refint\CoffeeBreak.Application.dll
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Users\Alef\OneDrive\Área de Trabalho\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\ref\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.deps.json
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\bin\Debug\net8.0\CoffeeBreak.Domain.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.AssemblyReference.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfoInputs.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.AssemblyInfo.cs
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBr.168A79C7.Up2Date
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\refint\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.pdb
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\ref\CoffeeBreak.Application.dll
+C:\Projetos\PIT\Back\src\CoffeeBreak.Application\obj\Debug\net8.0\CoffeeBreak.Application.sourcelink.json

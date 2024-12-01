@@ -54,6 +54,10 @@ namespace CoffeeBreak.Application.Services
             address.Neighborhood = addressDTO.Neighborhood;
             address.Street = addressDTO.Street;
             address.Number = addressDTO.Number;
+            if (!String.IsNullOrWhiteSpace(addressDTO.Complement))
+            {
+                address.Complement = addressDTO.Complement;
+            }
             _addressRepository.Commit();
             return address;
         }

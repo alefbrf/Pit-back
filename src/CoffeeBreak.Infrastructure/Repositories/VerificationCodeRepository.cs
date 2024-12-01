@@ -34,7 +34,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 where
                     codes.UserId == UserId &&
                     codes.Code == code &&
-                    codes.Valid >= DateTime.UtcNow
+                    codes.Valid >= date
                 select codes
             ).FirstOrDefaultAsync();
         }

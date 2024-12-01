@@ -40,8 +40,8 @@ namespace CoffeeBreak.Application.Services
                 Email = userDTO.Email,
                 Role = (byte)role,
                 Verified = false,
-                DateCreated = DateTime.Now,
-                DateUpdated = DateTime.Now,
+                DateCreated = DateTime.UtcNow.AddHours(-3),
+                DateUpdated = DateTime.UtcNow.AddHours(-3)
             };
 
             user.Password = BCrypt.Net.BCrypt.HashPassword(userDTO.Password);

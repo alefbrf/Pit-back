@@ -23,7 +23,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
 
             return new Order()
             {
-                CreatedDate = DateTime.Now,
+                CreatedDate = DateTime.UtcNow.AddHours(-3),
                 Code = sixDigitNumber,
                 UserId = userId,
                 Address = string.Empty
@@ -124,7 +124,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 throw new BaseException("Pedido não encontrado");
             }
 
-            order.Preparing = DateTime.Now;
+            order.Preparing = DateTime.UtcNow.AddHours(-3);
             _context.Update(order);
             _context.SaveChanges();
             return new Application.DTOs.Response.Order.Order
@@ -156,7 +156,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 throw new BaseException("Pedido não encontrado");
             }
 
-            order.Disapproved = DateTime.Now;
+            order.Disapproved = DateTime.UtcNow.AddHours(-3);
             _context.Update(order);
             _context.SaveChanges();
             return new Application.DTOs.Response.Order.Order
@@ -188,7 +188,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 throw new BaseException("Pedido não encontrado");
             }
 
-            order.Ready = DateTime.Now;
+            order.Ready = DateTime.UtcNow.AddHours(-3);
             _context.Update(order);
             _context.SaveChanges();
             return new Application.DTOs.Response.Order.Order
@@ -219,7 +219,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 throw new BaseException("Pedido não encontrado");
             }
 
-            order.InDelivery = DateTime.Now;
+            order.InDelivery = DateTime.UtcNow.AddHours(-3);
             _context.Update(order);
             _context.SaveChanges();
             return new Application.DTOs.Response.Order.Order
@@ -250,7 +250,7 @@ namespace CoffeeBreak.Infrastructure.Repositories
                 throw new BaseException("Pedido não encontrado");
             }
 
-            order.Delivered = DateTime.Now;
+            order.Delivered = DateTime.UtcNow.AddHours(-3);
             _context.Update(order);
             _context.SaveChanges();
             return new Application.DTOs.Response.Order.Order

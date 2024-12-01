@@ -21,19 +21,20 @@ namespace CoffeeBreak.Infrastructure.Repositories
 
             VerificationCode verificationCode = new VerificationCode();
             verificationCode.Code = sixDigitNumber;
-            verificationCode.Valid = DateTime.Now.AddMinutes(30);
+            verificationCode.Valid = DateTime.UtcNow.AddHours(-3).AddMinutes(30);
 
             return verificationCode;
         }
 
         public async Task<VerificationCode?> GetByUserIdByCode(int UserId, string code)
         {
+            var date = DateTime.UtcNow.AddHours(-3);
             return await (
                 from codes in _context.VerificationCodes
                 where
                     codes.UserId == UserId &&
                     codes.Code == code &&
-                    codes.Valid >= DateTime.Now
+                    codes.Valid >= DateTime.UtcNow
                 select codes
             ).FirstOrDefaultAsync();
         }

@@ -7,6 +7,7 @@ namespace CoffeeBreak.Infrastructure.Persistence
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) {
             this.ChangeTracker.LazyLoadingEnabled = false;
+            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
         }
         public DbSet<User> Users { get; set; }
         public DbSet<VerificationCode> VerificationCodes { get; set; }
